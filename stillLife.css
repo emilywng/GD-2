@@ -1,0 +1,161 @@
+body {
+    background-color: white;
+}
+.yellow{
+    position: absolute;
+    top: 700px;
+    right: 370px;
+    width:700px;
+    height:10px;
+    background-color: yellow;
+}
+.stemBottom {
+    position: absolute;
+    top: 250px;
+    right: 700px;
+    width: 40px;
+    height: 450px;
+    background: rgb(69, 126, 69);
+  }
+.petal1 {
+    position: absolute;
+    top: 250px;
+    right: 600px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(330deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal2 {
+    position: absolute;
+    top: 210px;
+    right: 580px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(290deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal3 {
+    position: absolute;
+    top: 180px;
+    right: 560px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(250deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal4 {
+    position: absolute;
+    top: 120px;
+    right: 580px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(230deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal5 {
+    position: absolute;
+    top: 90px;
+    right: 630px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(200deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal6 {
+    position: absolute;
+    top: 80px;
+    right: 680px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(180deg);
+    background-color: rgb(247, 165, 212);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal7 {
+    position: absolute;
+    top: 100px;
+    right: 720px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(150deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal8 {
+    position: absolute;
+    top: 140px;
+    right: 740px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(100deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal9 {
+    position: absolute;
+    top: 200px;
+    right: 740px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(70deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal10 {
+    position: absolute;
+    top: 250px;
+    right: 710px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(30deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal10 {
+    position: absolute;
+    top: 250px;
+    right: 710px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(30deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .petal11 {
+    position: absolute;
+    top: 260px;
+    right: 675px;
+    display:block;
+    width: 106px;
+    height: 180px;
+    transform: rotate(340deg);
+    background-color: rgb(255, 164, 217);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .dot {
+    position: absolute;
+    top: 220px;
+    right: 675px;
+    height: 85px;
+    width: 85px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+  }
